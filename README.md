@@ -1,4 +1,4 @@
-# A Hands-On Guide to ArgoCD on Kubernetes
+# Hands-on with Argo CD on Kubernetes!
 
 <img width="706" height="389" alt="Screenshot 2025-10-18 at 5 08 22 PM" src="https://github.com/user-attachments/assets/c660999c-a08e-4eb3-8f44-661842e1d5c4" />
 
