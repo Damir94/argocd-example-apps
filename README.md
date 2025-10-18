@@ -15,7 +15,7 @@ In short: You commit code to Git → Argo CD applies it automatically to your cl
 ## Prerequisites
 Before you start, make sure you have the following:
 
-## Here’s a step-by-step guide to install Minikube on Ubuntu:
+## Here’s a step-by-step guide to install docker on Ubuntu:
 
 #### 1. Launch an EC2 instance with a t2.large instance type and Ubuntu OS
 #### 2. Connect to the instance and perform system updates.
