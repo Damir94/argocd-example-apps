@@ -171,3 +171,12 @@ Using the ArgoCD UI
 
 <img width="1791" height="975" alt="Screenshot 2025-10-18 at 12 44 01 PM" src="https://github.com/user-attachments/assets/a7c84287-8d1b-4d5b-806d-77f0deaf8f87" />
 Step 1: ArgoCD Application Creation
+
+<img width="1476" height="694" alt="Screenshot 2025-10-18 at 12 45 49 PM" src="https://github.com/user-attachments/assets/8068c558-aeb3-4300-a05a-9900f695e6b4" />
+Step 2: ArgoCD Application Creation
+
+### Once the application is created, click on Sync to deploy the application to your Kubernetes cluster. If Sync Policy Set to Automatic then application will be deployed to kubernetes automatically.
+
+<img width="851" height="526" alt="Screenshot 2025-10-18 at 12 46 30 PM" src="https://github.com/user-attachments/assets/864ad3ec-a7cd-4798-9115-43f585c0a3a8" />
+
+<img width="1693" height="578" alt="Screenshot 2025-10-18 at 12 46 41 PM" src="https://github.com/user-attachments/assets/68dc8513-9feb-4b0f-a768-bcdf27ac3589" />
