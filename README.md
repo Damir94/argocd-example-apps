@@ -187,4 +187,5 @@ From here, you can:
  - Integrate CI/CD workflows (e.g., GitHub Actions → Argo CD).
  - Manage multiple clusters from one Argo CD instance.
  - Enforce policies and role-based access control (RBAC).
+   
 Argo CD bridges the gap between developers and operations — making deployments faster, traceable, and reliable.
