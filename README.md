@@ -161,7 +161,7 @@ This repository will serve as the source for ArgoCD to deploy your application.
 Using the ArgoCD UI
  - Create an Application in ArgoCD:
  - In the ArgoCD dashboard, click on New App and fill in the following details:
- - Application Name: my-first-ap
+ - Application Name: my-first-time
  - Project: defaul
  - Sync Policy: Manual or Automatic (your choice)
  - Repository URL: URL of your Git repository
